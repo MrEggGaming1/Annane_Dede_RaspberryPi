@@ -5,7 +5,7 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_9986.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal",Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
