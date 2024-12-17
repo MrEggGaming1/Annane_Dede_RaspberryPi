@@ -34,7 +34,7 @@ http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber",Ülke TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734426736/ei/EOxgZ8bSEZXtg8UP3IKD6A4/ip/118.102.93.199/id/qbHyctPiS3I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/x-caULnZG092_iR8ZvrqkcgNFPRi8di4QWNp99c6lPDVLJTVomHYkKNp7pt1WRAZbuFFt6QlEIjG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWgetSD7dGDfKyUdH_jU4QxOp-AGFxXtBugWd9r1huRsCIQCVuGdzybT2cEotM9dvtMNLmiWi_Cv8ogIhG9RmhnLIzg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
