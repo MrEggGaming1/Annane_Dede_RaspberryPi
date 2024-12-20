@@ -14,7 +14,7 @@ plugin://plugin.video.youtube/play/?video_id=6wHAK439FDI
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal",Show Türk
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734426175/ei/3-lgZ4OiIo_T3LUP35SzoAE/ip/118.102.93.199/id/XnvS-RZa4Qw.55/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/au/hightc/yes/siu/1/spc/x-caUGpnB4EjsbOi87QFpmHozulTNKQNyfUVEbJuVll-r9eukD3WBt-KbMTvKlFShfKtRK5THm-x/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJidsIUAhiSRV9AfrEnsqWqCKbcUhyzTz0VZmBU6sIHRAiEA8IoPhxr0-VO4yCohXDxNKolR3mQ-tjXxLk_6BycyZlo%3D/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=XnvS-RZa4Qw
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="http://assets.tvcdn.net/4e308235-1cc2-4e7e-acb5-cba6c0766ee8.png" group-title="Ulusal",Euro Star
