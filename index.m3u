@@ -18,7 +18,7 @@ plugin://plugin.video.youtube/play/?video_id=XnvS-RZa4Qw
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_0576.png" group-title="Ulusal",Show Max
 plugin://plugin.video.youtube/play/?video_id=Y3vGHFrsqrs
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
+plugin://plugin.video.youtube/play/?video_id=82O6yOy_XwE
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="http://assets.tvcdn.net/4e308235-1cc2-4e7e-acb5-cba6c0766ee8.png" group-title="Ulusal",Euro Star
 #http://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=FYYHA_csFFvlyDhntFm3Jw&e=1732083176
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
