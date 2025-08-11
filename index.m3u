@@ -44,7 +44,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
 plugin://plugin.video.youtube/play/?video_id=nmY9i63t6qo
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
-plugin://plugin.video.youtube/play/?video_id=VXMR3YQ7W3s
+plugin://plugin.video.youtube/play/?video_id=bdDfLLy9Y5k
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Haber",TGRT Haber
 plugin://plugin.video.youtube/play/?video_id=2-PxQVVcr6A
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Haber",TGRT EU
