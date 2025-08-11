@@ -62,7 +62,7 @@ plugin://plugin.video.youtube/play/?video_id=dK96AZbCns0
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
 plugin://plugin.video.youtube/play/?video_id=7uBpwcn2ZZ0
 #EXTINF:-1 tvg-id="beINSports.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_4171.jpeg" group-title="Spor",beIN Sports Türkiye
-plugin://plugin.video.youtube/play/?video_id=CtUorRNqC4s
+plugin://plugin.video.youtube/play/?video_id=LqQrpAJYHRg
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #Comment #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik",Dream Türk
