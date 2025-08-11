@@ -48,7 +48,7 @@ plugin://plugin.video.youtube/play/?video_id=bdDfLLy9Y5k
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Haber",TGRT Haber
 plugin://plugin.video.youtube/play/?video_id=TsB0xYOH0AU
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Haber",TGRT EU
-plugin://plugin.video.youtube/play/?video_id=Gq20kW8WsU0
+plugin://plugin.video.youtube/play/?video_id=_iST6iges3M
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Haber",Habertürk
 plugin://plugin.video.youtube/play/?video_id=RNVNlJSUFoE
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global
