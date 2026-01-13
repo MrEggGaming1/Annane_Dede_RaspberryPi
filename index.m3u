@@ -54,7 +54,7 @@ plugin://plugin.video.youtube/play/?video_id=RNVNlJSUFoE
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global
 plugin://plugin.video.youtube/play/?video_id=EqoCJ8BPxtE
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
-plugin://plugin.video.youtube/play/?video_id=VBU0QX6brew
+plugin://plugin.video.youtube/play/?video_id=na_jT2Q1rfA
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",Ulusal Kanal
 plugin://plugin.video.youtube/play/?video_id=dK96AZbCns0
 #Comment #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız
