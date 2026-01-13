@@ -60,7 +60,7 @@ plugin://plugin.video.youtube/play/?video_id=dK96AZbCns0
 #Comment #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız
 #Not Working http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
-plugin://plugin.video.youtube/play/?video_id=ysh-bPiD3Oo
+plugin://plugin.video.youtube/play/?video_id=mDTnFqGLLs4
 #EXTINF:-1 tvg-id="HT-Spor.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/HT-SPOR.png" group-title="Spor",HT Spor
 plugin://plugin.video.youtube/play/?video_id=RdpqsTbi_KU
 #EXTINF:-1 tvg-id="beINSports.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_4171.jpeg" group-title="Spor",beIN Sports Türkiye
