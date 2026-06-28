@@ -12,9 +12,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 plugin://plugin.video.youtube/play/?video_id=G_i8ByDID4s
 #OLD http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
-plugin://plugin.video.youtube/play/?video_id=ouuCjEjyKVI
+plugin://plugin.video.youtube/play/?video_id=PU7tPuC0u2Y
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal",Show Türk
-plugin://plugin.video.youtube/play/?video_id=XnvS-RZa4Qw
+plugin://plugin.video.youtube/play/?video_id=mm-qRhoCgyc
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_0576.png" group-title="Ulusal",Show Max
 plugin://plugin.video.youtube/play/?video_id=Y3vGHFrsqrs
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
