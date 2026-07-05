@@ -43,7 +43,7 @@ plugin://plugin.video.youtube/play/?video_id=Dq2cTP4HPEM
 plugin://plugin.video.youtube/play/?video_id=vjNZVmImcxg
 #Not Working https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
-plugin://plugin.video.youtube/play/?video_id=v1Eww2tZwb4
+plugin://plugin.video.youtube/play/?video_id=jCoBWUqi6AI
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
 plugin://plugin.video.youtube/play/?video_id=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Haber",TGRT Haber
