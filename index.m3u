@@ -22,11 +22,11 @@ plugin://plugin.video.youtube/play/?video_id=82O6yOy_XwE
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="http://assets.tvcdn.net/4e308235-1cc2-4e7e-acb5-cba6c0766ee8.png" group-title="Ulusal",Euro Star
 #http://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=FYYHA_csFFvlyDhntFm3Jw&e=1732083176
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
-plugin://plugin.video.youtube/play/?video_id=nL8WXo7FWSs
+plugin://plugin.video.youtube/play/?video_id=OMxF561emho
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-http://46.32.176.50/trt1/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #Comment #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
@@ -38,7 +38,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
 plugin://plugin.video.youtube/play/?video_id=4WSvLRk83-c
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber",Ülke TV
-plugin://plugin.video.youtube/play/?video_id=Dq2cTP4HPEM
+plugin://plugin.video.youtube/play/?video_id=XLiq7t7CeeQ
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber
 plugin://plugin.video.youtube/play/?video_id=vjNZVmImcxg
 #Not Working https://tv-trthaber.medya.trt.com.tr/master.m3u8
