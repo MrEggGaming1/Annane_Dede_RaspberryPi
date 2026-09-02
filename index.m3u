@@ -4,7 +4,7 @@ plugin://plugin.video.youtube/play/?video_id=SAqH6cYIiK0
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="Ulusal",ATV Avrupa
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
+plugin://plugin.video.youtube/play/?video_id=TTPutRvEvEw
 #OLD https://list.iptvcat.com/my_list/s/e78d51ebfc1552e13e412ca5a952be2d.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_9986.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -40,10 +40,10 @@ plugin://plugin.video.youtube/play/?video_id=4WSvLRk83-c
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber",Ülke TV
 plugin://plugin.video.youtube/play/?video_id=XLiq7t7CeeQ
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber
-plugin://plugin.video.youtube/play/?video_id=vjNZVmImcxg
+plugin://plugin.video.youtube/play/?video_id=myv0L5yK_rY
 #Not Working https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
-plugin://plugin.video.youtube/play/?video_id=jCoBWUqi6AI
+plugin://plugin.video.youtube/play/?video_id=9pGruMw_21g
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
 plugin://plugin.video.youtube/play/?video_id=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="SOZCU.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/channels4_profile.jpg" group-title="Haber",SÖZCÜ TV
