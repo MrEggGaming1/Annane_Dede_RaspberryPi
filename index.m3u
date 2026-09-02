@@ -8,9 +8,11 @@ plugin://plugin.video.youtube/play/?video_id=TTPutRvEvEw
 #OLD https://list.iptvcat.com/my_list/s/e78d51ebfc1552e13e412ca5a952be2d.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_9986.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal",Euro D
-plugin://plugin.video.youtube/play/?video_id=TTPutRvEvEw
+#OLD #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal",Euro D
+#OLD plugin://plugin.video.youtube/play/?video_id=TTPutRvEvEw
 #OLD http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/nowtv.jpg" group-title="Ulusal",NOW Canlı Yayın
+plugin://plugin.video.youtube/play/?video_id=8dbHcreSBEI
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 plugin://plugin.video.youtube/play/?video_id=WxeHEn5N1vk
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal",Show Türk
@@ -53,7 +55,7 @@ plugin://plugin.video.youtube/play/?video_id=pqq5c6k70kk
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Haber",TGRT Haber
 plugin://plugin.video.youtube/play/?video_id=WX29nlgdqho
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Haber",TGRT EU
-plugin://plugin.video.youtube/play/?video_id=32y7IEtD5OU
+plugin://plugin.video.youtube/play/?video_id=
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Haber",Habertürk
 plugin://plugin.video.youtube/play/?video_id=RNVNlJSUFoE
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global
