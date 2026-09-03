@@ -13,7 +13,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #OLD http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/nowtv.jpg" group-title="Ulusal",NOW Canlı Yayın
 #OLD plugin://plugin.video.youtube/play/?video_id=8dbHcreSBEI
- https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 plugin://plugin.video.youtube/play/?video_id=WxeHEn5N1vk
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal",Show Türk
