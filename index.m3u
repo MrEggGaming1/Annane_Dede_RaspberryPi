@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml" 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
-plugin://plugin.video.youtube/play/?video_id=SAqH6cYIiK0
+plugin://plugin.video.youtube/play/?video_id=QlLx7bRrqW0
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="Ulusal",ATV Avrupa
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
@@ -48,7 +48,7 @@ plugin://plugin.video.youtube/play/?video_id=myv0L5yK_rY
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
 plugin://plugin.video.youtube/play/?video_id=9pGruMw_21g
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
-plugin://plugin.video.youtube/play/?video_id=MVe3NxECg64
+plugin://plugin.video.youtube/play/?video_id=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="SOZCU.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/channels4_profile.jpg" group-title="Haber",SÖZCÜ TV
 plugin://plugin.video.youtube/play/?video_id=ztmY_cCtUl0
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/ntv.png.webp" group-title="Haber",NTV Canlı Yayın
