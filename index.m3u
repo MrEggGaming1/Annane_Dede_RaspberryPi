@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml" 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
-plugin://plugin.video.youtube/play/?video_id=Rk40_h13eR4
+plugin://plugin.video.youtube/play/?video_id=8_aEmQtRZZw
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="Ulusal",ATV Avrupa
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
-plugin://plugin.video.youtube/play/?video_id=crwxJBQKWj4
+plugin://plugin.video.youtube/play/?video_id=czQAI3Ee_wI
 #OLD https://list.iptvcat.com/my_list/s/e78d51ebfc1552e13e412ca5a952be2d.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_9986.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #OLD #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal",Euro D
-#OLD plugin://plugin.video.youtube/play/?video_id=crwxJBQKWj4
+#OLD plugin://plugin.video.youtube/play/?video_id=czQAI3Ee_wI
 #OLD http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/nowtv.jpg" group-title="Ulusal",NOW Canlı Yayın
 #OLD plugin://plugin.video.youtube/play/?video_id=
@@ -17,7 +17,7 @@ http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 plugin://plugin.video.youtube/play/?video_id=WxeHEn5N1vk
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal",Show Türk
-plugin://plugin.video.youtube/play/?video_id=Y3vGHFrsqrs
+plugin://plugin.video.youtube/play/?video_id=cbgKyiqOljQ
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_0576.png" group-title="Ulusal",Show Max
 plugin://plugin.video.youtube/play/?video_id=Y3vGHFrsqrs
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
@@ -46,7 +46,7 @@ plugin://plugin.video.youtube/play/?video_id=0yX3_FJSYe8
 plugin://plugin.video.youtube/play/?video_id=GefoJ-LXYfc
 #Not Working https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
-plugin://plugin.video.youtube/play/?video_id=bdUXpgIKUIA
+plugin://plugin.video.youtube/play/?video_id=o2i1o4cFRzA
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
 plugin://plugin.video.youtube/play/?video_id=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="SOZCU.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/channels4_profile.jpg" group-title="Haber",SÖZCÜ TV
@@ -68,11 +68,11 @@ plugin://plugin.video.youtube/play/?video_id=Gcxkjxhbhk8
 #Comment #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız
 #Not Working http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
-plugin://plugin.video.youtube/play/?video_id=gngQrHdf6aE
+plugin://plugin.video.youtube/play/?video_id=PO6UZS0QnNk
 #EXTINF:-1 tvg-id="HT-Spor.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/HT-SPOR.png" group-title="Spor",HT Spor
 plugin://plugin.video.youtube/play/?video_id=gcWaPe_LBMc
 #EXTINF:-1 tvg-id="beINSports.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/IMG_4171.jpeg" group-title="Spor",beIN Sports Türkiye
-plugin://plugin.video.youtube/play/?video_id=OzwQZX5TWR0
+plugin://plugin.video.youtube/play/?video_id=i7UpPgxfZZ8
 #OLD #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/beIN_Sports_1.png" group-title="Spor",beIN Sports 1
 #OLD plugin://plugin.video.youtube/play/?video_id=
 #OLD #EXTINF:-1 tvg-id="beINSports2.tr" tvg-logo="https://raw.githubusercontent.com/MrEggGaming1/Annane_Dede_RaspberryPi/refs/heads/main/beIN_Sports_2.png" group-title="Spor",beIN Sports 2
